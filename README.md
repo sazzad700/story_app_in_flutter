@@ -1,16 +1,8 @@
-# story
+# story app
 
-A new Flutter project.
+![Screenshot_5](https://github.com/sazzad700/story_app_in_flutter/assets/102316710/d88e741c-37ce-4395-ad15-60136df971a0)
 
-## Getting Started
+## Change the story with decisions.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_6](https://github.com/sazzad700/story_app_in_flutter/assets/102316710/1c51b270-4101-4752-a2cf-cebd6c625236)
+![Screenshot_7](https://github.com/sazzad700/story_app_in_flutter/assets/102316710/f7f7b58a-c5b3-4372-ab5e-91786b5472b0)
